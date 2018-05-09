@@ -17,7 +17,7 @@ Feel free to contribute by fixing any bugs and adding new features to this repos
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Additional Resources 
 
