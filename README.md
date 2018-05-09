@@ -1,1 +1,1 @@
-# ORiN_RC8-Getting_Started
+# ORiN RC8 - Getting Started
