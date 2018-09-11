@@ -19,6 +19,8 @@ Feel free to contribute by fixing any bugs and adding new features to this repos
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+---
+
 ### Additional Resources 
 
 - [ORiN SDK](http://www.denso-wave.com/en/robot/product/software/orin2.html)
